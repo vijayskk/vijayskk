@@ -1,3 +1,9 @@
+
+<style>
+  body{
+  background-image: url('https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif');
+  }
+</style>
 <h1 align="center">Hi 👋, I'm Vijay Satheesh</h1>
 <h3 align="center">Self-taught React frontend developer</h3>
 
