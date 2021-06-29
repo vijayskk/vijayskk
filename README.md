@@ -3,7 +3,6 @@
 <img align="center" height="180" width="180" src="https://media1.tenor.com/images/315d66f06bba25326e685f843fe14554/tenor.gif?itemid=7910074" alt="My cool logo"/>
 <img align="center" height="180" width="180" src="https://media1.tenor.com/images/315d66f06bba25326e685f843fe14554/tenor.gif?itemid=7910074" alt="My cool logo"/>
 <img align="center" height="180" width="180" src="https://media1.tenor.com/images/315d66f06bba25326e685f843fe14554/tenor.gif?itemid=7910074" alt="My cool logo"/>
-<img align="center" height="180" width="180" src="https://media1.tenor.com/images/315d66f06bba25326e685f843fe14554/tenor.gif?itemid=7910074" alt="My cool logo"/>
 </div>
 <h1 align="center">Hi 👋, I'm Vijay Satheesh</h1>
 <h3 align="center">Self-taught React frontend developer</h3>
