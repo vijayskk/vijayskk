@@ -1,9 +1,5 @@
 
-<style>
-  body{
-  background-image: url('https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif');
-  }
-</style>
+<img align="center" src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" alt="My cool logo"/>
 <h1 align="center">Hi 👋, I'm Vijay Satheesh</h1>
 <h3 align="center">Self-taught React frontend developer</h3>
 
