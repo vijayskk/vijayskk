@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vijay Satheesh</h1>
-<h3 align="center">Self-taught React frontend developer</h3>
+<h3 align="center">Self-taught Android developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijayskk&label=Profile%20views&color=0e75b6&style=flat" alt="vijayskk" /> </p>
 
