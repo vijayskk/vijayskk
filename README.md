@@ -34,7 +34,7 @@
 ### 🚀 [Safeguard++](https://github.com/vijayskk/SafeGuard.git)
 A lightweight antivirus program in C++ utilizing OpenMP for parallelism.
 
-### 🔐 [Vencrypt] (https://github.com/vijayskk/vencrypt.git)
+### 🔐 [Vencrypt](https://github.com/vijayskk/vencrypt.git)
 A C header module for file encryption using cipher techniques.
 
 ### 🧠 [Cemulator](https://github.com/vijayskk/Cemulator.git)
@@ -63,6 +63,7 @@ A basic assembly language interpreter written in raw C. Parses and executes cust
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vijayskk&show_icons=true&theme=radical" height="180px"/>
+  ![vijayskk's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vijayskk&theme=highcontrast&hide_border=false)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayskk&layout=compact&theme=radical" height="180px"/>
 </p>
 
