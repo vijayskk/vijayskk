@@ -23,9 +23,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vijayskk&show_icons=true&theme=radical" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vijayskk&show_icons=true&theme=highcontrast" height="180px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijayskk&theme=highcontrast&hide_border=false" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayskk&layout=compact&theme=radical" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayskk&layout=compact&theme=highcontrast" height="180px"/>
 </p>
 
 ---
